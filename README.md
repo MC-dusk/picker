@@ -23,3 +23,5 @@
 - [ ] 延时模式（立即/延时/手动）
 
 ### END
+
+[![Page Views Count](https://badges.toozhao.com/badges/01G6ZJY3322Y59H9X1J3XHN2M5/green.svg)](https://badges.toozhao.com/stats/01G6ZJY3322Y59H9X1J3XHN2M5 "Get your own page views count badge on badges.toozhao.com")
